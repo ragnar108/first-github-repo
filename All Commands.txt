@@ -67,7 +67,17 @@ Untracked files:
 
 -------------------------------------------------------------------------
 
+D:\githubProject>git add *
 
+---------------------------
+
+D:\githubProject>git commit -m "My first commit"
+[master (root-commit) 2ce16f7] My first commit
+ 2 files changed, 103 insertions(+)
+ create mode 100644 All Commands.txt
+ create mode 100644 abc.txt
+
+---------------------------
 
 
 
